@@ -1,4 +1,4 @@
-# ChatClienOverTCP
+# ChatClientOverTCP
 Author: Stephen Stuart
 <br> Language package: Java JDK-19
 <br> Description: 
